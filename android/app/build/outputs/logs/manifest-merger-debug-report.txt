@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.56.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/react-native-0.56.1.aar/3c2d83d5193440f8fe998795f767ce40/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/881946661cede82ebd72e356b9ebba96/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/c62f6de1db2ba00c08fbb21ae550f163/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/60cff9a9f49153856ed16122a7865739/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/215871014b592530f664050ae0367c9c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/0e76f43509d72dd6942a8f86c3747122/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a5d5ac500915d1e62e80b63de85fa1cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/86fdd2e5f46e62cd3d749b91bc0eeb9f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/e760aa1ae53396a1d50c25c02f666322/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.9.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/ee776b4487484ae9008aea89ded181b0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/e26baadffc2251c941ef2d313a2230d8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.9.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/c33c8ae0ed06620064b2658397d9de57/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/f7bc8164a4f9cb9e875d00ef747699a6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/3310aabec74810f206908e0d05b90ea0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/2c23035f5b6109eb7dccaca78aed1965/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/17b06a1271a54f702f64ea33cf611470/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/5a90d575c29bb6691bb92393976d7f02/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a9001e8615f64be743d7bf81986bede2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2eb2f73061e61d2635bd36f78c42e30c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8f712a98caf8a9576d6468193fc44435/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/71708d504336360e15e9dfd8bd711823/AndroidManifest.xml:17:1-22:12
+INJECTED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:2:5-26
+		INJECTED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.56.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/react-native-0.56.1.aar/3c2d83d5193440f8fe998795f767ce40/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.56.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/react-native-0.56.1.aar/3c2d83d5193440f8fe998795f767ce40/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.56.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/react-native-0.56.1.aar/3c2d83d5193440f8fe998795f767ce40/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.56.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/react-native-0.56.1.aar/3c2d83d5193440f8fe998795f767ce40/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/2c23035f5b6109eb7dccaca78aed1965/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/2c23035f5b6109eb7dccaca78aed1965/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/17b06a1271a54f702f64ea33cf611470/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/17b06a1271a54f702f64ea33cf611470/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.manager.MainActivity
+ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml
+INJECTED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.56.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/react-native-0.56.1.aar/3c2d83d5193440f8fe998795f767ce40/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.56.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/react-native-0.56.1.aar/3c2d83d5193440f8fe998795f767ce40/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/881946661cede82ebd72e356b9ebba96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/881946661cede82ebd72e356b9ebba96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/c62f6de1db2ba00c08fbb21ae550f163/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/c62f6de1db2ba00c08fbb21ae550f163/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/60cff9a9f49153856ed16122a7865739/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/60cff9a9f49153856ed16122a7865739/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/215871014b592530f664050ae0367c9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/215871014b592530f664050ae0367c9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/0e76f43509d72dd6942a8f86c3747122/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/0e76f43509d72dd6942a8f86c3747122/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a5d5ac500915d1e62e80b63de85fa1cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a5d5ac500915d1e62e80b63de85fa1cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/86fdd2e5f46e62cd3d749b91bc0eeb9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/86fdd2e5f46e62cd3d749b91bc0eeb9f/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/e760aa1ae53396a1d50c25c02f666322/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/e760aa1ae53396a1d50c25c02f666322/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/ee776b4487484ae9008aea89ded181b0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/ee776b4487484ae9008aea89ded181b0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/e26baadffc2251c941ef2d313a2230d8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/e26baadffc2251c941ef2d313a2230d8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/c33c8ae0ed06620064b2658397d9de57/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/c33c8ae0ed06620064b2658397d9de57/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/f7bc8164a4f9cb9e875d00ef747699a6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/f7bc8164a4f9cb9e875d00ef747699a6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/3310aabec74810f206908e0d05b90ea0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/3310aabec74810f206908e0d05b90ea0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/2c23035f5b6109eb7dccaca78aed1965/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/2c23035f5b6109eb7dccaca78aed1965/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/5a90d575c29bb6691bb92393976d7f02/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/5a90d575c29bb6691bb92393976d7f02/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a9001e8615f64be743d7bf81986bede2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a9001e8615f64be743d7bf81986bede2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2eb2f73061e61d2635bd36f78c42e30c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2eb2f73061e61d2635bd36f78c42e30c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8f712a98caf8a9576d6468193fc44435/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8f712a98caf8a9576d6468193fc44435/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/71708d504336360e15e9dfd8bd711823/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/shubhamg931/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/71708d504336360e15e9dfd8bd711823/AndroidManifest.xml:20:5-44
+INJECTED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml
+INJECTED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /media/shubhamg931/New Volume/React Native App Development/manager/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
